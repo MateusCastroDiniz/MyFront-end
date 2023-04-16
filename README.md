@@ -32,7 +32,7 @@ Ramificações ou versões paralelas
 - DOD: Definition of Done (Critérios definidos para aceitação do produto)
 - Versionamento 1.0.0 (Produto final. feature. debug)
 ### Merge
-- Mesclagem de branches
+- Mesclagem de branches: git merge
 
 ### Comandos
 - git checkout -b nome-da-branch (cria uma branch)
