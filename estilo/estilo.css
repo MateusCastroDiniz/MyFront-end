@@ -150,7 +150,6 @@ footer p{
 	article {
 		width: 80%;
 		height: fit-content;
-        overflow: scroll;
 	}
     .article-tabela{
         width: 80%;
